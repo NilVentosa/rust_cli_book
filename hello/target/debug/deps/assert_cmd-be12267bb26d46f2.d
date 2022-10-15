@@ -1,0 +1,12 @@
+/Users/nil/repos/rust_cli_book/hello/target/debug/deps/assert_cmd-be12267bb26d46f2.rmeta: /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/Users/nil/repos/rust_cli_book/hello/target/debug/deps/libassert_cmd-be12267bb26d46f2.rlib: /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/Users/nil/repos/rust_cli_book/hello/target/debug/deps/assert_cmd-be12267bb26d46f2.d: /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs:
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs:
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs:
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs:
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs:
+/Users/nil/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md:
